@@ -14,6 +14,7 @@ Task: Need to create an API where anyone can create questions with options and a
 - View a question with it’s options and all the votes given to it
 
 ## Required Routes
+https://polling-api-6xte.onrender.com/api/v1 :
 - /questions/create (To create a question)
 - /questions/:id/options/create (To add options to a specific question)
 - /questions/:id/delete (To delete a question)
